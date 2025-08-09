@@ -1,0 +1,40 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "date": "2025-04-01",
+      "opponent": "Tigers",
+      "outcomes": [
+        "1B",
+        "OUT",
+        "BB",
+        "HR",
+        "K"
+      ],
+      "r": 2,
+      "rbi": 3,
+      "sb": 1,
+      "cs": 0,
+      "notes": "Opening day"
+    },
+    {
+      "id": 2,
+      "date": "2025-04-05",
+      "opponent": "Bears",
+      "outcomes": [
+        "OUT",
+        "OUT",
+        "2B",
+        "OUT",
+        "BB",
+        "1B"
+      ],
+      "r": 1,
+      "rbi": 1,
+      "sb": 0,
+      "cs": 1,
+      "notes": "Tight game"
+    }
+  ],
+  "next_id": 3
+}
